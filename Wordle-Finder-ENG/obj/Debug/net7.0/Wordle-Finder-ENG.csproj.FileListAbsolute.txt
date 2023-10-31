@@ -1,0 +1,14 @@
+D:\School\Year 3\Trials\Wordle-Finder-ENG\bin\Debug\net7.0\Wordle-Finder-ENG.exe
+D:\School\Year 3\Trials\Wordle-Finder-ENG\bin\Debug\net7.0\Wordle-Finder-ENG.deps.json
+D:\School\Year 3\Trials\Wordle-Finder-ENG\bin\Debug\net7.0\Wordle-Finder-ENG.runtimeconfig.json
+D:\School\Year 3\Trials\Wordle-Finder-ENG\bin\Debug\net7.0\Wordle-Finder-ENG.dll
+D:\School\Year 3\Trials\Wordle-Finder-ENG\bin\Debug\net7.0\Wordle-Finder-ENG.pdb
+D:\School\Year 3\Trials\Wordle-Finder-ENG\obj\Debug\net7.0\Wordle-Finder-ENG.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Year 3\Trials\Wordle-Finder-ENG\obj\Debug\net7.0\Wordle-Finder-ENG.AssemblyInfoInputs.cache
+D:\School\Year 3\Trials\Wordle-Finder-ENG\obj\Debug\net7.0\Wordle-Finder-ENG.AssemblyInfo.cs
+D:\School\Year 3\Trials\Wordle-Finder-ENG\obj\Debug\net7.0\Wordle-Finder-ENG.csproj.CoreCompileInputs.cache
+D:\School\Year 3\Trials\Wordle-Finder-ENG\obj\Debug\net7.0\Wordle-Finder-ENG.dll
+D:\School\Year 3\Trials\Wordle-Finder-ENG\obj\Debug\net7.0\refint\Wordle-Finder-ENG.dll
+D:\School\Year 3\Trials\Wordle-Finder-ENG\obj\Debug\net7.0\Wordle-Finder-ENG.pdb
+D:\School\Year 3\Trials\Wordle-Finder-ENG\obj\Debug\net7.0\Wordle-Finder-ENG.genruntimeconfig.cache
+D:\School\Year 3\Trials\Wordle-Finder-ENG\obj\Debug\net7.0\ref\Wordle-Finder-ENG.dll

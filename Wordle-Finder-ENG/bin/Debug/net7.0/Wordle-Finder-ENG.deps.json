@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Wordle-Finder-ENG/1.0.0": {
+        "runtime": {
+          "Wordle-Finder-ENG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wordle-Finder-ENG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
